@@ -65,4 +65,11 @@ To push to curent branch
 To push the file
 
 	git push
+	
+To merge branches
 
+	git merge branch_name
+	
+ To delete branches
+
+	git branch -d branch_name
