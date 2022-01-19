@@ -2,9 +2,11 @@
 
 Command to commit from git to remote repo
 
-Get into to the directoru you wanted to uploaded
+Get into to the directory you wanted to uploaded
 
 Type in the following command
+
+## Upload tO REPO
 
 	git init
 
@@ -23,4 +25,15 @@ Adding the remote repository
 To push the commit
 	
 	git push origin master
+
+
+## Get INFO
+
+TO get info about commits made, time, user etc..
+
+	git log
+
+To get about each commit by commit id [Hexa decimal in command]
+
+	git show 6766e95ba3c84ce262cfaad4d105151ffeb341f4
 
