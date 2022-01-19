@@ -26,6 +26,9 @@ To push the commit
 	
 	git push origin master
 
+To check the difference between branches
+
+	git diif branch1...branch2
 
 ## Getting INFO
 
