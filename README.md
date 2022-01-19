@@ -41,3 +41,25 @@ To find the status of uncommited files in directory
 
 	git status
 
+To find the branches in the repo
+
+	git branch
+
+## Branches
+
+To Create a Branch
+
+	git branch branch_name
+
+To move to another branch
+
+	git checkout branch_name
+
+To push to curent branch
+
+	git push --set-upstream origin branch_name
+
+To push the file
+
+	git push
+
