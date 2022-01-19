@@ -1,4 +1,4 @@
-# Test
+# Intro
 
 Command to commit from git to remote repo
 
