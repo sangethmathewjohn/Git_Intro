@@ -27,7 +27,7 @@ To push the commit
 	git push origin master
 
 
-## Get INFO
+## Getting INFO
 
 TO get info about commits made, time, user etc..
 
@@ -36,4 +36,8 @@ TO get info about commits made, time, user etc..
 To get about each commit by commit id [Hexa decimal in command]
 
 	git show 6766e95ba3c84ce262cfaad4d105151ffeb341f4
+
+To find the status of uncommited files in directory
+
+	git status
 
