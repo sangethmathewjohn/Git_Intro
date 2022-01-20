@@ -49,6 +49,14 @@ To check the difference between branches
 
         git diif branch1...branch2
 
+To find the difference between last version of a file local repo 
+
+	git diff file
+
+To revert back to previous version in local repo
+
+	git checkout file
+
 
 ## Branches
 
