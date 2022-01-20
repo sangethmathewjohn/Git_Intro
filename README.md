@@ -92,3 +92,10 @@ To merge branches
 To commit something that is so important and make it not able 
 to used by any other
 
+Creat a git ignorr file
+
+	touch .gitignore
+
+Add file names to the gitignore file which to be  not commited 
+or uploaded to the repo.
+ 
