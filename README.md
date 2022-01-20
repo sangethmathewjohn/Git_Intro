@@ -57,6 +57,9 @@ To revert back to previous version in local repo
 
 	git checkout file
 
+To remove from the git staging area.[To not tracked to be commited]
+
+	git rm --cached -r .
 
 ## Branches
 
@@ -83,3 +86,9 @@ To merge branches
  To delete branches
 
 	git branch -d branch_name
+
+## .GITIGNORE
+
+To commit something that is so important and make it not able 
+to used by any other
+
