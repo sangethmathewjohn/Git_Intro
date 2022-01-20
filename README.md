@@ -26,9 +26,6 @@ To push the commit
 	
 	git push origin master
 
-To check the difference between branches
-
-	git diif branch1...branch2
 
 ## Getting INFO
 
@@ -47,6 +44,11 @@ To find the status of uncommited files in directory
 To find the branches in the repo
 
 	git branch
+
+To check the difference between branches
+
+        git diif branch1...branch2
+
 
 ## Branches
 
