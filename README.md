@@ -26,6 +26,11 @@ To push the commit
 	
 	git push origin master
 
+## PULL
+
+To requests to add change in a repo
+
+	git pull origin branch-name
 
 ## Getting INFO
 
