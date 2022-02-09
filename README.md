@@ -28,7 +28,7 @@ To push the commit
 
 ## PULL
 
-To requests to add change in a repo
+Opposite of push to pull changes made in remote repo to local repo
 
 	git pull origin branch-name
 
